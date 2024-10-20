@@ -23,3 +23,6 @@ connectDB()
     console.log(`Falied to connect to database: ${error.message}`);
     
 })
+
+// Export the app for Vercel
+module.exports = app;
