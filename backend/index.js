@@ -24,4 +24,4 @@ connectDB()
     
 })
 
-module.exports = app;
+
